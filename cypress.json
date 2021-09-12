@@ -1,0 +1,6 @@
+{
+    "baseUrl":"https://slack.com/",
+    "integrationFolder":"cypress/tests",
+    "viewportHeight":768,
+    "viewportWidth":1024
+}

@@ -1,0 +1,5 @@
+{
+    "invalidEmail": "inv",
+    "invalidEmailErrorMessage": "It looks like that isn’t a valid email address.",
+    "noEmailErrorMessage": "Please fill in your email."
+  }

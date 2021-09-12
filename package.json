@@ -1,0 +1,16 @@
+{
+  "name": "netguru_cypress_slack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^8.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npx cypress open",
+    "headless": "npx cypress run"
+  },
+  "author": "gmarcisz",
+  "license": "ISC"
+}
