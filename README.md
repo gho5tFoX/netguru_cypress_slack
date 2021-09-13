@@ -5,7 +5,7 @@ After you clone this repo, go to its root directory and run `npm install` to ins
 - `npm run test` to run Cypress
 
 .
-![Cypress runner]([img]https://i.imgur.com/0uqOIyI.png[/img])
+![Cypress runner](https://i.imgur.com/0uqOIyI.png)
 
 
 - `npm run headless` to run Cypress headlessly
