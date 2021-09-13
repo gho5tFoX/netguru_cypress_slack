@@ -4,8 +4,10 @@ After you clone this repo, go to its root directory and run `npm install` to ins
 ## Usage
 - `npm run test` to run Cypress
 
-.
 ![Cypress runner](https://i.imgur.com/0uqOIyI.png)
+1. Create account test
+2. Sign in test
+3. All tests
 
 
 - `npm run headless` to run Cypress headlessly
