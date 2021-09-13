@@ -1,7 +1,7 @@
-# ⚙ Slack test automation - Cypress
-## 🛠 Setup
+# 👋 Slack test automation - Cypress
+## ⚙ Setup
 After you clone this repo, go to its root directory and run `npm install` to install its dependencies.
-## Usage
+## 🛠 Usage
 - `npm run test` to run Cypress
 
 ![Cypress runner](https://i.imgur.com/0uqOIyI.png)
