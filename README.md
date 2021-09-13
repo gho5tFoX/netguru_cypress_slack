@@ -1,1 +1,2 @@
-# Slack automation - Cypress
+# Slack tests automation - Cypress
+## Setup
