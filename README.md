@@ -1,1 +1,1 @@
-# netguru_cypress_slack
+# Slack automation - Cypress
