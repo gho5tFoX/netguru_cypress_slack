@@ -17,4 +17,5 @@ To run specific or both tests click:
 - `npm run headless` to run Cypress headlessly
 
 The tests will be run headlessly (using electron), the results will be outputed into terminal, and the "videos" folder will be created with recordings of all runs:
+
 ![Cypress headless](https://i.imgur.com/69gCIHX.png)
