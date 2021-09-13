@@ -11,5 +11,5 @@ Click to run:
 2. Sign in test
 3. All tests
 
----
+--
 - `npm run headless` to run Cypress headlessly
