@@ -4,10 +4,10 @@ After you clone this repo, go to its root directory and run `npm install` to ins
 ## 🛠 Usage
 - `npm run test` to run Cypress
 
-To run specific or all tests click:
+To run specific or both tests click:
 1. Create account test
 2. Sign in test
-3. All tests
+3. Both tests
 
 ![Cypress runner](https://i.imgur.com/0uqOIyI.png)
 
