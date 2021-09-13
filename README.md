@@ -5,6 +5,8 @@ After you clone this repo, go to its root directory and run `npm install` to ins
 - `npm run test` to run Cypress
 
 ![Cypress runner](https://i.imgur.com/0uqOIyI.png)
+
+Click to run:
 1. Create account test
 2. Sign in test
 3. All tests
